@@ -1,6 +1,6 @@
 #  [OLD] faisal.nvim
 
-This is an older version of my config , a fork from `kickstart.nvim` that I no longer update. I continued working on my config in a standalone repo: [six.nvim](https://github.com/mrdandelion6/) , check it out.
+This is an older version of my config , a fork from `kickstart.nvim` that I no longer update. I continued working on my config in a standalone repo: [six.nvim](https://github.com/mrdandelion6/six.nvim) , check it out.
 
 ## Setup
 You will generally need the following dependencies installed and on PATH:
