@@ -1,4 +1,4 @@
-#  [faisal.nvim
+#  [OLD] faisal.nvim
 
 This is an older version of my config , a fork from `kickstart.nvim` that I no longer update. I continued working on my config in a standalone repo: [six.nvim](https://github.com/mrdandelion6/) , check it out.
 
